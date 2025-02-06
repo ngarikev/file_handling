@@ -1,4 +1,4 @@
-# python-week-1-assignment
-# python-week-2-assignment
-# PLP-week-3-assignment
-# python-week-3-assignment
+#File Handling and Exception Handling Assignment
+  File Read & Write Challenge 🖋️: Create a program that reads a file and writes a modified version to a new file.
+  
+  Error Handling Lab 🧪: Ask the user for a filename and handle errors if it doesn’t exist or can’t be read.
